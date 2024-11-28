@@ -16,4 +16,4 @@ Day 10 : Kadane's Algorithm <br>
 Day 11 : Maximum Product Subarray <br>
 Day 12 : Max Circular Subarray Sum <br>
 Day 13 : Smallest Positive Missing Number <br>
-Day 14 :  <br>
+Day 14 : Implement Atoi <br>
