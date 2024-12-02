@@ -20,3 +20,4 @@ Day 14 : Implement Atoi <br>
 Day 15 : Add Binary Strings <br>
 Day 16 : Anagram <br>
 Day 17 : Non Repeating Character <br>
+Day 18 : Search Pattern (KMP-Algorithm) <br>
