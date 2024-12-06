@@ -24,3 +24,4 @@ Day 18 : Search Pattern (KMP-Algorithm) <br>
 Day 19 : Min Chars to Add for Palindrome <br>
 Day 20 : Strings Rotations of Each Other <br>
 Day 21 : Sort 0s, 1s and 2s <br>
+Day 22 : Find H-Index <br>
