@@ -27,3 +27,4 @@ Day 21 : Sort 0s, 1s and 2s <br>
 Day 22 : Find H-Index <br>
 Day 23 : CountInversions <br>
 Day 24 : Overlapping Intervals <br>
+Day 25 : Insert Interval <br>
