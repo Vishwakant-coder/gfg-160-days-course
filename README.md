@@ -33,3 +33,4 @@ Day 27 : Merge Without Extra Space <br>
 Day 28 : Number of occurrence <br>
 Day 29 : Sorted and Rotated Minimum  <br>
 Day 30 : Search in Rotated Sorted Array <br>
+Day 30 : Peak element <br>
