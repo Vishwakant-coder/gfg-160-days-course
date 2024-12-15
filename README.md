@@ -31,3 +31,5 @@ Day 25 : Insert Interval <br>
 Day 26 : Non-overlapping Intervals <br>
 Day 27 : Merge Without Extra Space <br>
 Day 28 : Number of occurrence <br>
+Day 29 : Sorted and Rotated Minimum  <br>
+Day 30 : Search in Rotated Sorted Array <br>
