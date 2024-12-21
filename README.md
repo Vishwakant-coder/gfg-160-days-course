@@ -39,3 +39,4 @@ Day 33 : Aggressive Cows <br>
 Day 34 : Allocate Minimum Pages <br>
 Day 35 : Kth Missing Positive Number in a Sorted Array <br>
 Day 36 : Spirally Traversing a matrix <br>
+Day 37 : Rotate by 90 degree <br>
