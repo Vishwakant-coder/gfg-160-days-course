@@ -42,3 +42,4 @@ Day 36 : Spirally Traversing a matrix <br>
 Day 37 : Rotate by 90 degree <br>
 Day 38 : Search in a Row-Column sorted matrix <br>
 Day 39 : Search in a row-wise sorted matrix <br>
+Day 40 : Search in a sorted Matrix <br>
