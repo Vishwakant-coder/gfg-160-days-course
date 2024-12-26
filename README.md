@@ -44,3 +44,4 @@ Day 38 : Search in a Row-Column sorted matrix <br>
 Day 39 : Search in a row-wise sorted matrix <br>
 Day 40 : Search in a sorted Matrix <br>
 Day 41 : Set Matrix Zeroes <br>
+Day 42 : Two Sum - Pair with Given Sum <br>
