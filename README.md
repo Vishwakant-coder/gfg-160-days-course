@@ -46,3 +46,4 @@ Day 40 : Search in a sorted Matrix <br>
 Day 41 : Set Matrix Zeroes <br>
 Day 42 : Two Sum - Pair with Given Sum <br>
 Day 43 : Count pairs with given sum <br>
+Day 44 : Find All Triplets with Zero Sum <br>
