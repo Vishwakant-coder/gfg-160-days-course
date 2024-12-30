@@ -48,3 +48,4 @@ Day 42 : Two Sum - Pair with Given Sum <br>
 Day 43 : Count pairs with given sum <br>
 Day 44 : Find All Triplets with Zero Sum <br>
 Day 45 : Intersection of Two arrays with Duplicate Elements <br>
+Day 46 : Union of Arrays with Duplicates <br>
