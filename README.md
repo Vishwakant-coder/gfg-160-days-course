@@ -51,3 +51,4 @@ Day 45 : Intersection of Two arrays with Duplicate Elements <br>
 Day 46 : Union of Arrays with Duplicates <br>
 Day 47 : Longest Consecutive Subsequence <br>
 Day 48 : Print Anagrams Together <br>
+Day 49 : Subarrays with sum K <br>
