@@ -52,3 +52,4 @@ Day 46 : Union of Arrays with Duplicates <br>
 Day 47 : Longest Consecutive Subsequence <br>
 Day 48 : Print Anagrams Together <br>
 Day 49 : Subarrays with sum K <br>
+Day 50 : Count Subarrays with given XOR <br>
