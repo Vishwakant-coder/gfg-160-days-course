@@ -54,3 +54,4 @@ Day 48 : Print Anagrams Together <br>
 Day 49 : Subarrays with sum K <br>
 Day 50 : Count Subarrays with given XOR <br>
 Day 51 : Count all triplets with given sum in sorted array <br>
+Day 52 : Count Pairs whose sum is less than target <br>
