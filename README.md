@@ -56,3 +56,4 @@ Day 50 : Count Subarrays with given XOR <br>
 Day 51 : Count all triplets with given sum in sorted array <br>
 Day 52 : Count Pairs whose sum is less than target <br>
 Day 53 : Sum Pair closest to target <br>
+Day 54 : Pair with given sum in a sorted array <br>
