@@ -60,3 +60,4 @@ Day 54 : Pair with given sum in a sorted array <br>
 Day 55 : Count the number of possible triangles <br>
 Day 56 : Indexes of Subarray Sum <br>
 Day 57 : Count distinct elements in every window <br>
+Day 58 : Longest substring with distinct characters <br>
