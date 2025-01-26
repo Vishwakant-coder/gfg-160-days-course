@@ -75,3 +75,4 @@ Day 69 : Add Number Linked Lists <br>
 Day 70 : Clone List with Next and Random <br>
 Day 71 : Detect Loop in linked list <br>
 Day 72 : Find the first node of loop in linked list <br>
+Day 73 : Remove loop in Linked List <br>
