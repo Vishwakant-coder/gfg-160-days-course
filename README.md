@@ -78,3 +78,4 @@ Day 72 : Find the first node of loop in linked list <br>
 Day 73 : Remove loop in Linked List <br>
 Day 74 : LRU Cache <br>
 Day 75 : Permutations of a String <br>
+Day 76 : Implement Pow <br>
